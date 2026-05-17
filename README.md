@@ -2,33 +2,42 @@
 
 🚀 Aspiring **Cloud & DevOps Engineer**  
 ☁️ Focused on AWS, Linux, Docker, CI/CD, and Automation  
+🔐 Interested in SOC (Security Operations) and Cybersecurity fundamentals  
 💻 Passionate about building real-world projects and improving DevOps skills  
-📚 Currently learning Cloud Computing + DevOps tools step by step  
+📚 Currently learning Cloud + DevOps + Security step by step  
 
 ---
 
 ## 🧠 About Me
 - 🎓 BCA Student (Cloud & Security specialization)
 - ☁️ Learning AWS, Linux, Git, and DevOps tools
-- 🔧 Building frontend + cloud practice projects
+- 🔧 Built frontend projects to strengthen development fundamentals
+- 🔐 Basic SOC knowledge (log analysis, monitoring, incident awareness)
 - 🚀 Transitioning from Web Development → Cloud & DevOps
-- 🎯 Goal: Become a DevOps / Cloud Engineer in a top company
+- 🎯 Goal: Become a Cloud / DevOps Engineer in a top company
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend (Basic Foundation)
+### 💻 Frontend (Foundation)
 - HTML
 - CSS
 - JavaScript
 
 ### ☁️ Cloud & DevOps (Learning Phase)
-- AWS (EC2, S3, IAM, VPC)
-- Linux
+- AWS (EC2, S3, IAM, VPC basics)
+- Linux (Commands & Basics)
 - Git & GitHub
 - Docker (Beginner)
-- CI/CD (Learning)
+- CI/CD Concepts
+
+### 🔐 SOC & Security Basics
+- Security monitoring fundamentals
+- Log analysis basics
+- Incident detection awareness
+- Network security basics (firewalls, IDS/IPS concepts)
+- SIEM tool awareness (basic understanding)
 
 ---
 
@@ -43,33 +52,35 @@ Basic task management app using JavaScript
 👉 Focus: DOM manipulation
 
 ### 🌦️ Weather App
-Weather UI using API integration (if added)  
-👉 Focus: API handling
+Weather application using API (if implemented)  
+👉 Focus: API integration
 
 ### 🎮 Rock Paper Scissors Game
-Simple interactive browser game  
-👉 Focus: JavaScript logic
+Interactive browser game using JavaScript  
+👉 Focus: Logic building
 
 ---
 
 ## 📈 Current Learning Path
 - AWS Cloud Fundamentals
-- Linux Commands & Shell Scripting
+- Linux & Shell Scripting
 - Docker Basics
 - CI/CD Pipelines
-- DevOps Project Deployment
+- DevOps Deployment Practice
+- SOC Basics (Security Monitoring & Logs)
 
 ---
 
 ## 🎯 Career Goal
-To become a **Cloud / DevOps Engineer** working on scalable systems, automation, and cloud infrastructure.
+To become a **Cloud / DevOps Engineer** with strong understanding of automation, cloud infrastructure, and basic security practices (DevSecOps mindset).
 
 ---
 
 ## 📫 Connect with Me
 - GitHub:https://github.com/NiteshVishwakarma219
-- LinkedIn:https://linkedin.com/in/nitesh1vishwakarma
+- LinkedIn:https://linkedin.com/in/nitesh1vishwakarma 
+
 ---
 
 ## ⚡ Motto
-"Learn → Build → Deploy → Improve → Repeat"
+"Learn → Build → Secure → Deploy → Improve → Repeat"
