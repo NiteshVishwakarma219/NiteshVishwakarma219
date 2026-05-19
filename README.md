@@ -41,26 +41,6 @@
 
 ---
 
-## 📂 Projects
-
-### 🎬 Netflix Clone (HTML & CSS)
-Frontend UI clone of Netflix homepage  
-👉 Focus: Layout design & CSS skills
-
-### 📝 To-Do List App
-Basic task management app using JavaScript  
-👉 Focus: DOM manipulation
-
-### 🌦️ Weather App
-Weather application using API (if implemented)  
-👉 Focus: API integration
-
-### 🎮 Rock Paper Scissors Game
-Interactive browser game using JavaScript  
-👉 Focus: Logic building
-
----
-
 ## 📈 Current Learning Path
 - AWS Cloud Fundamentals
 - Linux & Shell Scripting
