@@ -87,12 +87,6 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 
 <div align="center">
 
-<a href="https://github.com/NiteshVishwakarma219/enterprise-aws-terraform-infrastructure">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshVishwakarma219&repo=enterprise-aws-terraform-infrastructure&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/NiteshVishwakarma219/enterprise-devops-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshVishwakarma219&repo=enterprise-devops-platform&theme=tokyonight&hide_border=true" />
-</a>
 
 </div>
 
