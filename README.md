@@ -80,24 +80,6 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 
 </div>
 
-> ⚠️ **If these don't render:** this specific service (`github-readme-stats.vercel.app`) runs on shared free hosting and gets rate-limited often — it's a known, common issue, not a setup mistake. See the "Fixing images that don't load" section at the bottom for the permanent fix (self-hosting your own instance, 5 minutes, free).
-
-### 🏆 Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NiteshVishwakarma219&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/NiteshVishwakarma219/NiteshVishwakarma219/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-
-</div>
-
 <img src="divider.svg" width="100%"/>
 
 ### 🚀 Featured Projects
