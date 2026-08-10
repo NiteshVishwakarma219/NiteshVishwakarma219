@@ -73,14 +73,14 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NiteshVishwakarma219&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteshVishwakarma219&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-eight-ecru-17.vercel.app/api?username=NiteshVishwakarma219&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-eight-ecru-17.vercel.app/api/top-langs/?username=NiteshVishwakarma219&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.demolab.com/?user=NiteshVishwakarma219&theme=tokyonight&hide_border=true" />
 
 </div>
 
-> ⚠️ **If these don't render:** this specific service (`github-readme-stats.vercel.app`) runs on shared free hosting and gets rate-limited often — it's a known, common issue, not a setup mistake. See the "Fixing images that don't load" section at the bottom for the permanent fix (self-hosting your own instance, 5 minutes, free).
+> ✅ Running on a self-hosted instance — not the shared demo, so it won't be affected by that service being paused or rate-limited.
 
 ### 🏆 Trophy Case
 
@@ -105,10 +105,10 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 <div align="center">
 
 <a href="https://github.com/NiteshVishwakarma219/enterprise-aws-terraform-infrastructure">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshVishwakarma219&repo=enterprise-aws-terraform-infrastructure&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-ecru-17.vercel.app/api/pin/?username=NiteshVishwakarma219&repo=enterprise-aws-terraform-infrastructure&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/NiteshVishwakarma219/enterprise-devops-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshVishwakarma219&repo=enterprise-devops-platform&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-ecru-17.vercel.app/api/pin/?username=NiteshVishwakarma219&repo=enterprise-devops-platform&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -171,8 +171,8 @@ Most portfolio projects show only the happy path. My flagship projects document 
 
 **The banner, footer, and divider bars in this version are self-hosted** (`assets/banner.svg`, `assets/footer.svg`, `assets/divider.svg`) — they render straight from your own repo with zero external dependency, so they should never fail once pushed.
 
-**GitHub Stats / Top Languages / Streak / Trophy / Pinned-repo cards still depend on live third-party services** (`github-readme-stats.vercel.app`, `github-readme-streak-stats.herokuapp.com`, `github-profile-trophy.vercel.app`). These are free, shared, extremely popular services — which means they get rate-limited under heavy load. If they show a broken-image icon:
+**Top Languages, Trophy, and Pinned-repo cards still depend on live third-party services** (`github-profile-trophy.vercel.app` for trophies; pinned-repo cards run on your own self-hosted instance already). These are free, shared, extremely popular services — which means they get rate-limited or paused under heavy load. If any show a broken-image icon:
 1. Wait a few minutes and hard-refresh (`Ctrl+Shift+R`) — often temporary.
-2. **Permanent fix — self-host your own instance** (free, ~5 minutes): fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), deploy it to your own Vercel account (one click via their "Deploy" button in that repo's README), then replace `github-readme-stats.vercel.app` in this README with your own deployed URL. Same for the streak-stats and trophy repos if needed.
+2. **Permanent fix — self-host your own instance** (free, ~5 minutes): fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), deploy it to your own Vercel account (one click via their "Deploy" button in that repo's README), then replace `github-readme-stats-eight-ecru-17.vercel.app` in this README with your own deployed URL. Same for the streak-stats and trophy repos if needed.
 
 </details>
