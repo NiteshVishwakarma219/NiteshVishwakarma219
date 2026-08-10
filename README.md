@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,100:0F2027&height=200&section=header&text=Nitesh%20Vishwakarma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Cloud%20%26%20DevOps%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&width=650&lines=AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;Building+in+Public+%E2%80%94+One+Deploy+at+a+Time+%F0%9F%9A%80;Currently%3A+Open+to+Cloud%2FDevOps+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&width=650&lines=Building+in+Public+%E2%80%94+One+Deploy+at+a+Time+%F0%9F%9A%80;69%2B+Repositories+%7C+Real+Deployed+Infrastructure;Currently%3A+Open+to+Cloud%2FDevOps+Opportunities" alt="Typing SVG" />
 
 <br>
 
@@ -13,31 +13,33 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=NiteshVishwakarma219&style=for-the-badge&color=00A8E8)](https://github.com/NiteshVishwakarma219)
 
 ![Open to Work](https://img.shields.io/badge/Status-Open_to_Cloud%2FDevOps_Roles-success?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Repos](https://img.shields.io/badge/Public_Repositories-69%2B-00A8E8?style=for-the-badge&logo=github&logoColor=white)
 ![Location](https://img.shields.io/badge/📍_Based_in-India-orange?style=for-the-badge)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8E8,100:0F2027&height=3&width=100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### 🧠 About Me
 
 ```yaml
-role: "Aspiring Cloud & DevOps Engineer"
+role: "Cloud & DevOps Engineer"
 education: "BCA Student — Cloud & Security specialization"
 focus: ["AWS", "Terraform", "Docker", "Kubernetes", "CI/CD", "Linux", "SOC Fundamentals"]
-currently_building: "3-part enterprise cloud/DevOps portfolio, deployed and documented end-to-end"
+public_repos: "69+"
+flagship_work: "Enterprise-grade cloud/DevOps portfolio, deployed on real AWS and documented end-to-end"
 philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 ```
 
-- 🔭 Building a **3-part enterprise portfolio**: AWS infrastructure (Terraform) → Kubernetes/GitOps platform → Linux SRE & automation — all deployed on real AWS, not just diagrams
+- 🔭 **69+ public repositories** spanning cloud infrastructure, DevOps automation, and web development — anchored by a flagship **enterprise-grade portfolio**: AWS (Terraform) → Kubernetes/GitOps → Linux SRE, each one deployed on real AWS infrastructure, not just diagrams
 - ☁️ Deep in **AWS, Terraform, Docker, and Kubernetes** — real deployed infrastructure, real incidents debugged and documented
 - 🔐 Building **SOC & security fundamentals** alongside DevOps — log analysis, monitoring, incident response, a DevSecOps mindset from day one
-- 🐛 Not afraid to show the messy parts — every project ships with a real **incident postmortem**, not a polished highlight reel
+- 🐛 Not afraid to show the messy parts — my flagship projects ship with a real **incident postmortem**, not a polished highlight reel
 - 🌱 Transitioning from **Web Development → Cloud & DevOps Engineering**
 - 🎯 Actively looking for a **Cloud / DevOps Engineer** role where I can keep building things that actually run in production
 - 💬 Ask me about: Terraform module design, AWS VPC/ALB/ASG architecture, Docker networking gotchas, or GitOps with ArgoCD
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8E8,100:0F2027&height=3&width=100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### 🛠 Tech Stack
 
@@ -65,7 +67,7 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8E8,100:0F2027&height=3&width=100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### 📊 GitHub Stats
 
@@ -77,6 +79,8 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiteshVishwakarma219&theme=tokyonight&hide_border=true" />
 
 </div>
+
+> ⚠️ **If these don't render:** this specific service (`github-readme-stats.vercel.app`) runs on shared free hosting and gets rate-limited often — it's a known, common issue, not a setup mistake. See the "Fixing images that don't load" section at the bottom for the permanent fix (self-hosting your own instance, 5 minutes, free).
 
 ### 🏆 Trophy Case
 
@@ -94,9 +98,7 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 
 </div>
 
-> Snake animation renders once the `snake.yml` workflow (included below) runs in this repo — see setup note at the bottom.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8E8,100:0F2027&height=3&width=100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### 🚀 Featured Projects
 
@@ -120,10 +122,10 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 <details>
 <summary><b>💭 Why real incident postmortems, not just clean demos?</b></summary>
 <br>
-Most portfolio projects show only the happy path. Mine document the actual bugs hit during real deployment — a Docker networking DNS mismatch, a missing JWT secret, drifted Auto Scaling capacity — with root cause and fix for each. That's closer to what the job actually is, and it's a better interview story than "it just worked."
+Most portfolio projects show only the happy path. My flagship projects document the actual bugs hit during real deployment — a Docker networking DNS mismatch, a missing JWT secret, drifted Auto Scaling capacity — with root cause and fix for each. That's closer to what the job actually is, and it's a better interview story than "it just worked."
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8E8,100:0F2027&height=3&width=100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### 📈 Currently Learning
 
@@ -138,7 +140,7 @@ Most portfolio projects show only the happy path. Mine document the actual bugs 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8E8,100:0F2027&height=3&width=100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### 📫 Connect with Me
 
@@ -151,10 +153,26 @@ Most portfolio projects show only the happy path. Mine document the actual bugs 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00A8E8&height=120&section=footer"/>
+<img src="footer.svg" width="100%"/>
 
 <div align="center">
 
 ### ⚡ "Learn → Build → Secure → Deploy → Improve → Repeat"
 
 </div>
+
+---
+
+<details>
+<summary><b>🔧 Fixing images that don't load</b></summary>
+<br>
+
+**Most common cause — this repo isn't set up as your profile repo yet.** GitHub only shows this README on your profile page if it lives in a repo named **exactly** `NiteshVishwakarma219/NiteshVishwakarma219`, is **public**, and the README is on the **default branch** (usually `main`). If that repo doesn't exist yet, create it first.
+
+**The banner, footer, and divider bars in this version are self-hosted** (`assets/banner.svg`, `assets/footer.svg`, `assets/divider.svg`) — they render straight from your own repo with zero external dependency, so they should never fail once pushed.
+
+**GitHub Stats / Top Languages / Streak / Trophy / Pinned-repo cards still depend on live third-party services** (`github-readme-stats.vercel.app`, `github-readme-streak-stats.herokuapp.com`, `github-profile-trophy.vercel.app`). These are free, shared, extremely popular services — which means they get rate-limited under heavy load. If they show a broken-image icon:
+1. Wait a few minutes and hard-refresh (`Ctrl+Shift+R`) — often temporary.
+2. **Permanent fix — self-host your own instance** (free, ~5 minutes): fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), deploy it to your own Vercel account (one click via their "Deploy" button in that repo's README), then replace `github-readme-stats.vercel.app` in this README with your own deployed URL. Same for the streak-stats and trophy repos if needed.
+
+</details>
