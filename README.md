@@ -82,21 +82,25 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 
 > ✅ Running on a self-hosted instance — not the shared demo, so it won't be affected by that service being paused or rate-limited.
 
-### 🏆 Trophy Case
+<img src="assets/divider.svg" width="100%"/>
+
+### 💼 Impact Snapshot
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NiteshVishwakarma219&theme=tokyonight&no-frame=true&row=1&column=7" />
+![Repos](https://img.shields.io/badge/Public_Repositories-69%2B-00A8E8?style=for-the-badge&logo=github&logoColor=white)
+![Deployed](https://img.shields.io/badge/Enterprise_Projects_Deployed-3-success?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Services](https://img.shields.io/badge/AWS_Services_in_Production-15%2B-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Incidents](https://img.shields.io/badge/Incidents_Documented-100%25-blueviolet?style=for-the-badge&logo=statuspage&logoColor=white)
 
 </div>
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/NiteshVishwakarma219/NiteshVishwakarma219/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-
-</div>
+| What I've actually built | Not just tutorials |
+|---|---|
+| 🏗️ **Multi-AZ AWS infrastructure** | VPC, ALB, Auto Scaling Group, RDS, Secrets Manager — provisioned with modular Terraform, not clicked together in the console |
+| ⚙️ **Full CI/CD + GitOps pipeline** | Docker → GitHub Actions/Jenkins → Trivy security scanning → Docker Hub → Helm + ArgoCD to Kubernetes |
+| 🩺 **Real incident response** | Debugged and documented actual production bugs — Docker DNS mismatches, missing secrets, state drift — with root cause and fix for each, not a sanitized success story |
+| 📊 **Monitoring built in from day one** | CloudWatch alarms → SNS → email, so problems surface before a user reports them |
 
 <img src="assets/divider.svg" width="100%"/>
 
@@ -171,8 +175,8 @@ Most portfolio projects show only the happy path. My flagship projects document 
 
 **The banner, footer, and divider bars in this version are self-hosted** (`assets/banner.svg`, `assets/footer.svg`, `assets/divider.svg`) — they render straight from your own repo with zero external dependency, so they should never fail once pushed.
 
-**Top Languages, Trophy, and Pinned-repo cards still depend on live third-party services** (`github-profile-trophy.vercel.app` for trophies; pinned-repo cards run on your own self-hosted instance already). These are free, shared, extremely popular services — which means they get rate-limited or paused under heavy load. If any show a broken-image icon:
+**Top Languages and Pinned-repo cards run on your own self-hosted instance already** — should stay reliable. If either ever shows a broken-image icon (Vercel free-tier projects can go idle after long inactivity):
 1. Wait a few minutes and hard-refresh (`Ctrl+Shift+R`) — often temporary.
-2. **Permanent fix — self-host your own instance** (free, ~5 minutes): fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), deploy it to your own Vercel account (one click via their "Deploy" button in that repo's README), then replace `github-readme-stats-eight-ecru-17.vercel.app` in this README with your own deployed URL. Same for the streak-stats and trophy repos if needed.
+2. **Permanent fix — self-host your own instance** (free, ~5 minutes): fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), deploy it to your own Vercel account (one click via their "Deploy" button in that repo's README), then replace `github-readme-stats-eight-ecru-17.vercel.app` in this README with your own deployed URL.
 
 </details>
