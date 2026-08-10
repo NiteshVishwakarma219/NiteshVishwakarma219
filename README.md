@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" width="100%"/>
+<img src="assets/banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&width=650&lines=Building+in+Public+%E2%80%94+One+Deploy+at+a+Time+%F0%9F%9A%80;69%2B+Repositories+%7C+Real+Deployed+Infrastructure;Currently%3A+Open+to+Cloud%2FDevOps+Opportunities" alt="Typing SVG" />
 
@@ -18,7 +18,7 @@
 
 </div>
 
-<img src="divider.svg" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 ### 🧠 About Me
 
@@ -39,7 +39,7 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 - 🎯 Actively looking for a **Cloud / DevOps Engineer** role where I can keep building things that actually run in production
 - 💬 Ask me about: Terraform module design, AWS VPC/ALB/ASG architecture, Docker networking gotchas, or GitOps with ArgoCD
 
-<img src="divider.svg" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 ### 🛠 Tech Stack
 
@@ -67,7 +67,7 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 
 </div>
 
-<img src="divider.svg" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 ### 📊 GitHub Stats
 
@@ -76,7 +76,7 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=NiteshVishwakarma219&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteshVishwakarma219&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NiteshVishwakarma219&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=NiteshVishwakarma219&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -98,7 +98,7 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 
 </div>
 
-<img src="divider.svg" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 ### 🚀 Featured Projects
 
@@ -125,7 +125,7 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 Most portfolio projects show only the happy path. My flagship projects document the actual bugs hit during real deployment — a Docker networking DNS mismatch, a missing JWT secret, drifted Auto Scaling capacity — with root cause and fix for each. That's closer to what the job actually is, and it's a better interview story than "it just worked."
 </details>
 
-<img src="divider.svg" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 ### 📈 Currently Learning
 
@@ -140,7 +140,7 @@ Most portfolio projects show only the happy path. My flagship projects document 
 
 </div>
 
-<img src="divider.svg" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 ### 📫 Connect with Me
 
@@ -153,7 +153,7 @@ Most portfolio projects show only the happy path. My flagship projects document 
 
 </div>
 
-<img src="footer.svg" width="100%"/>
+<img src="assets/footer.svg" width="100%"/>
 
 <div align="center">
 
