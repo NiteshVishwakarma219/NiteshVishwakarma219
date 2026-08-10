@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,100:0F2027&height=200&section=header&text=Nitesh%20Vishwakarma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Cloud%20%26%20DevOps%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&width=650&lines=Building+in+Public+%E2%80%94+One+Deploy+at+a+Time+%F0%9F%9A%80;69%2B+Repositories+%7C+Real+Deployed+Infrastructure;Currently%3A+Open+to+Cloud%2FDevOps+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&width=650&lines=AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;Building+in+Public+%E2%80%94+One+Deploy+at+a+Time+%F0%9F%9A%80;Currently%3A+Open+to+Cloud%2FDevOps+Opportunities" alt="Typing SVG" />
 
 <br>
 
@@ -13,12 +13,11 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=NiteshVishwakarma219&style=for-the-badge&color=00A8E8)](https://github.com/NiteshVishwakarma219)
 
 ![Open to Work](https://img.shields.io/badge/Status-Open_to_Cloud%2FDevOps_Roles-success?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Repos](https://img.shields.io/badge/Public_Repositories-69%2B-00A8E8?style=for-the-badge&logo=github&logoColor=white)
 ![Location](https://img.shields.io/badge/📍_Based_in-India-orange?style=for-the-badge)
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8E8,100:0F2027&height=3&width=100%"/>
 
 ### 🧠 About Me
 
@@ -26,20 +25,19 @@
 role: "Aspiring Cloud & DevOps Engineer"
 education: "BCA Student — Cloud & Security specialization"
 focus: ["AWS", "Terraform", "Docker", "Kubernetes", "CI/CD", "Linux", "SOC Fundamentals"]
-public_repos: "69+"
-flagship_work: "Enterprise-grade cloud/DevOps portfolio, deployed on real AWS and documented end-to-end"
+currently_building: "3-part enterprise cloud/DevOps portfolio, deployed and documented end-to-end"
 philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 ```
 
-- 🔭 **69+ public repositories** spanning cloud infrastructure, DevOps automation, and web development — anchored by a flagship **enterprise-grade portfolio**: AWS (Terraform) → Kubernetes/GitOps → Linux SRE, each one deployed on real AWS infrastructure, not just diagrams
+- 🔭 Building a **3-part enterprise portfolio**: AWS infrastructure (Terraform) → Kubernetes/GitOps platform → Linux SRE & automation — all deployed on real AWS, not just diagrams
 - ☁️ Deep in **AWS, Terraform, Docker, and Kubernetes** — real deployed infrastructure, real incidents debugged and documented
 - 🔐 Building **SOC & security fundamentals** alongside DevOps — log analysis, monitoring, incident response, a DevSecOps mindset from day one
-- 🐛 Not afraid to show the messy parts — my flagship projects ship with a real **incident postmortem**, not a polished highlight reel
+- 🐛 Not afraid to show the messy parts — every project ships with a real **incident postmortem**, not a polished highlight reel
 - 🌱 Transitioning from **Web Development → Cloud & DevOps Engineering**
 - 🎯 Actively looking for a **Cloud / DevOps Engineer** role where I can keep building things that actually run in production
 - 💬 Ask me about: Terraform module design, AWS VPC/ALB/ASG architecture, Docker networking gotchas, or GitOps with ArgoCD
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8E8,100:0F2027&height=3&width=100%"/>
 
 ### 🛠 Tech Stack
 
@@ -67,52 +65,48 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8E8,100:0F2027&height=3&width=100%"/>
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-eight-ecru-17.vercel.app/api?username=NiteshVishwakarma219&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-eight-ecru-17.vercel.app/api/top-langs/?username=NiteshVishwakarma219&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NiteshVishwakarma219&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteshVishwakarma219&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=NiteshVishwakarma219&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NiteshVishwakarma219&theme=tokyonight&hide_border=true" />
 
 </div>
 
-> ✅ Running on a self-hosted instance — not the shared demo, so it won't be affected by that service being paused or rate-limited.
-
-<img src="assets/divider.svg" width="100%"/>
-
-### 💼 Impact Snapshot
+### 🏆 Trophy Case
 
 <div align="center">
 
-![Repos](https://img.shields.io/badge/Public_Repositories-69%2B-00A8E8?style=for-the-badge&logo=github&logoColor=white)
-![Deployed](https://img.shields.io/badge/Enterprise_Projects_Deployed-3-success?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Services](https://img.shields.io/badge/AWS_Services_in_Production-15%2B-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Incidents](https://img.shields.io/badge/Incidents_Documented-100%25-blueviolet?style=for-the-badge&logo=statuspage&logoColor=white)
+<img src="https://github-profile-trophy.vercel.app/?username=NiteshVishwakarma219&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
-| What I've actually built | Not just tutorials |
-|---|---|
-| 🏗️ **Multi-AZ AWS infrastructure** | VPC, ALB, Auto Scaling Group, RDS, Secrets Manager — provisioned with modular Terraform, not clicked together in the console |
-| ⚙️ **Full CI/CD + GitOps pipeline** | Docker → GitHub Actions/Jenkins → Trivy security scanning → Docker Hub → Helm + ArgoCD to Kubernetes |
-| 🩺 **Real incident response** | Debugged and documented actual production bugs — Docker DNS mismatches, missing secrets, state drift — with root cause and fix for each, not a sanitized success story |
-| 📊 **Monitoring built in from day one** | CloudWatch alarms → SNS → email, so problems surface before a user reports them |
+### 🐍 Contribution Snake
 
-<img src="assets/divider.svg" width="100%"/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/NiteshVishwakarma219/NiteshVishwakarma219/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+
+</div>
+
+> Snake animation renders once the `snake.yml` workflow (included below) runs in this repo — see setup note at the bottom.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8E8,100:0F2027&height=3&width=100%"/>
 
 ### 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/NiteshVishwakarma219/enterprise-aws-terraform-infrastructure">
-  <img src="https://github-readme-stats-eight-ecru-17.vercel.app/api/pin/?username=NiteshVishwakarma219&repo=enterprise-aws-terraform-infrastructure&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshVishwakarma219&repo=enterprise-aws-terraform-infrastructure&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/NiteshVishwakarma219/enterprise-devops-platform">
-  <img src="https://github-readme-stats-eight-ecru-17.vercel.app/api/pin/?username=NiteshVishwakarma219&repo=enterprise-devops-platform&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshVishwakarma219&repo=enterprise-devops-platform&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -126,10 +120,10 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 <details>
 <summary><b>💭 Why real incident postmortems, not just clean demos?</b></summary>
 <br>
-Most portfolio projects show only the happy path. My flagship projects document the actual bugs hit during real deployment — a Docker networking DNS mismatch, a missing JWT secret, drifted Auto Scaling capacity — with root cause and fix for each. That's closer to what the job actually is, and it's a better interview story than "it just worked."
+Most portfolio projects show only the happy path. Mine document the actual bugs hit during real deployment — a Docker networking DNS mismatch, a missing JWT secret, drifted Auto Scaling capacity — with root cause and fix for each. That's closer to what the job actually is, and it's a better interview story than "it just worked."
 </details>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8E8,100:0F2027&height=3&width=100%"/>
 
 ### 📈 Currently Learning
 
@@ -144,7 +138,7 @@ Most portfolio projects show only the happy path. My flagship projects document 
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8E8,100:0F2027&height=3&width=100%"/>
 
 ### 📫 Connect with Me
 
@@ -157,26 +151,10 @@ Most portfolio projects show only the happy path. My flagship projects document 
 
 </div>
 
-<img src="assets/footer.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00A8E8&height=120&section=footer"/>
 
 <div align="center">
 
 ### ⚡ "Learn → Build → Secure → Deploy → Improve → Repeat"
 
 </div>
-
----
-
-<details>
-<summary><b>🔧 Fixing images that don't load</b></summary>
-<br>
-
-**Most common cause — this repo isn't set up as your profile repo yet.** GitHub only shows this README on your profile page if it lives in a repo named **exactly** `NiteshVishwakarma219/NiteshVishwakarma219`, is **public**, and the README is on the **default branch** (usually `main`). If that repo doesn't exist yet, create it first.
-
-**The banner, footer, and divider bars in this version are self-hosted** (`assets/banner.svg`, `assets/footer.svg`, `assets/divider.svg`) — they render straight from your own repo with zero external dependency, so they should never fail once pushed.
-
-**Top Languages and Pinned-repo cards run on your own self-hosted instance already** — should stay reliable. If either ever shows a broken-image icon (Vercel free-tier projects can go idle after long inactivity):
-1. Wait a few minutes and hard-refresh (`Ctrl+Shift+R`) — often temporary.
-2. **Permanent fix — self-host your own instance** (free, ~5 minutes): fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), deploy it to your own Vercel account (one click via their "Deploy" button in that repo's README), then replace `github-readme-stats-eight-ecru-17.vercel.app` in this README with your own deployed URL.
-
-</details>
