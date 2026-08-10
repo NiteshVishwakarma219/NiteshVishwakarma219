@@ -18,7 +18,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### 🧠 About Me
 
@@ -39,7 +39,7 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 - 🎯 Actively looking for a **Cloud / DevOps Engineer** role where I can keep building things that actually run in production
 - 💬 Ask me about: Terraform module design, AWS VPC/ALB/ASG architecture, Docker networking gotchas, or GitOps with ArgoCD
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### 🛠 Tech Stack
 
@@ -67,7 +67,7 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### 📊 GitHub Stats
 
@@ -98,7 +98,7 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### 🚀 Featured Projects
 
@@ -125,7 +125,7 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 Most portfolio projects show only the happy path. My flagship projects document the actual bugs hit during real deployment — a Docker networking DNS mismatch, a missing JWT secret, drifted Auto Scaling capacity — with root cause and fix for each. That's closer to what the job actually is, and it's a better interview story than "it just worked."
 </details>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### 📈 Currently Learning
 
@@ -140,7 +140,7 @@ Most portfolio projects show only the happy path. My flagship projects document 
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### 📫 Connect with Me
 
@@ -153,7 +153,7 @@ Most portfolio projects show only the happy path. My flagship projects document 
 
 </div>
 
-<img src="assets/footer.svg" width="100%"/>
+<img src="footer.svg" width="100%"/>
 
 <div align="center">
 
