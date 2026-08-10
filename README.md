@@ -73,10 +73,11 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NiteshVishwakarma219&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteshVishwakarma219&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NiteshVishwakarma219&theme=tokyonight&hide_border=true" />
+<div align="center">
+<img height="165" src="https://github-readme-stats-eight-ecru-17.vercel.app/api?username=NiteshVishwakarma219&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-eight-ecru-17.vercel.app/api/top-langs/?username=NiteshVishwakarma219&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=NiteshVishwakarma219&theme=tokyonight&hide_border=true" />
+</div>
 
 </div>
 
