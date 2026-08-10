@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%"/>
+<img src="banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&width=650&lines=Building+in+Public+%E2%80%94+One+Deploy+at+a+Time+%F0%9F%9A%80;69%2B+Repositories+%7C+Real+Deployed+Infrastructure;Currently%3A+Open+to+Cloud%2FDevOps+Opportunities" alt="Typing SVG" />
 
