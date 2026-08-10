@@ -67,20 +67,6 @@ philosophy: "Learn → Build → Secure → Deploy → Improve → Repeat"
 
 </div>
 
-<img src="divider.svg" width="100%"/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<div align="center">
-[<img height="165" src="https://github-readme-stats-eight-ecru-17.vercel.app/api?username=NiteshVishwakarma219&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NiteshVishwakarma219&label=Public%20Repos&query=public_repos&color=00A8E8&style=for-the-badge&logo=github)
-[<img height="165" src="https://github-readme-stats-eight-ecru-17.vercel.app/api/top-langs/?username=NiteshVishwakarma219&layout=compact&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-streak-stats.demolab.com/?user=NiteshVishwakarma219&theme=tokyonight&hide_border=true" />](https://img.shields.io/github/followers/NiteshVishwakarma219?style=for-the-badge&logo=github&color=00A8E8)
-  https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NiteshVishwakarma219&label=Followers&query=followers&color=00A8E8&style=for-the-badge&logo=github
-</div>
-
-</div>
 
 <img src="divider.svg" width="100%"/>
 
