@@ -372,28 +372,6 @@ Linux Operations
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NiteshVishwakarma219&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NiteshVishwakarma219&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteshVishwakarma219&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiteshVishwakarma219&theme=tokyo-night&hide_border=true" />
-
-</div>
-
-<img src="divider.svg" width="100%"/>
-
 ## 🎯 Current Focus
 
 <div align="center">
