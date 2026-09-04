@@ -29,7 +29,7 @@
 
 </div>
 
-<img src="Nitesh-Photo.png" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <table width="100%">
 <tr>
