@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=850&lines=Cloud+%26+Security+Engineer;Building+Secure+AWS+Infrastructure;AWS+%7C+Terraform+%7C+Linux+%7C+Docker;Cloud+Security+%7C+Cybersecurity+%7C+Automation;Learn+%E2%86%92+Build+%E2%86%92+Secure+%E2%86%92+Deploy+%E2%86%92+Improve" alt="Typing SVG" />
 
-<br><br>
+<br>
 
 <a href="https://linkedin.com/in/nitesh1vishwakarma">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -20,13 +20,9 @@
 <a href="https://github.com/NiteshVishwakarma219">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
-
+<br>
 <img src="https://komarev.com/ghpvc/?username=NiteshVishwakarma219&style=for-the-badge&color=00A8E8" />
-
-<br><br>
-
+<br>
 <img src="https://img.shields.io/badge/Focus-Cloud_%26_Security-00A8E8?style=for-the-badge&logo=icloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Status-Open_to_Work-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Based_in-India-F97316?style=for-the-badge&logo=googlemaps&logoColor=white"/>
@@ -35,6 +31,10 @@
 
 <img src="divider.svg" width="100%"/>
 
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
 ## 👋 Hi, I'm Nitesh Vishwakarma
 
 ### Cloud & Security Engineer | AWS | Terraform | Linux | Docker
@@ -42,6 +42,15 @@
 I build and document **production-style cloud infrastructure, cloud security environments, and Linux-based operational systems** using AWS and modern infrastructure tools.
 
 My approach goes beyond simply deploying infrastructure. I focus on understanding how systems are **designed, secured, monitored, automated, troubleshot, and operated**.
+
+</td>
+<td width="35%" align="center">
+
+<img src="profile-glow.svg" width="220"/>
+
+</td>
+</tr>
+</table>
 
 ```yaml
 role: "Cloud & Security Engineer"
