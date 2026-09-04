@@ -46,7 +46,7 @@ My approach goes beyond simply deploying infrastructure. I focus on understandin
 </td>
 <td width="35%" align="center">
 
-<img src="profile-glow.svg" width="220"/>
+<img src="Nitesh-Photo.png" width="220" height="220" style="border-radius:50%;"/>
 
 </td>
 </tr>
