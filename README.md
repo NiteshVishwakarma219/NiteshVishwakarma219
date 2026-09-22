@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-hero.svg" alt="Nitesh Vishwakarma - Cloud and DevOps Engineer" width="100%"/>
+<img src="profile-hero.svg" alt="Nitesh Vishwakarma - Cloud and DevOps Engineer" width="100%"/>
 
 <a href="https://linkedin.com/in/nitesh1vishwakarma"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://securewithnitesh.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
@@ -64,7 +64,7 @@ My primary focus is **AWS Cloud + Cloud Security + Infrastructure Automation**, 
 
 A production-style AWS infrastructure project focused on **secure network segmentation, multi-AZ application architecture, containerized deployment, infrastructure as code, monitoring, and cloud security controls**.
 
-<img src="assets/aws-3d-architecture.svg" alt="Enterprise AWS Cloud Security 3D Architecture" width="100%"/>
+<img src="aws-3d-architecture.svg" alt="Enterprise AWS Cloud Security 3D Architecture" width="100%"/>
 
 ### Architecture Flow
 
