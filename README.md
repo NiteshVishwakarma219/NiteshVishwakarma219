@@ -1,458 +1,179 @@
 <div align="center">
 
-<img src="banner.svg" width="100%" />
+<img src="assets/profile-hero.svg" alt="Nitesh Vishwakarma - Cloud and DevOps Engineer" width="100%"/>
 
-<br>
+<a href="https://linkedin.com/in/nitesh1vishwakarma"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://securewithnitesh.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="mailto:niteshv8112@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=850&lines=Cloud+%26+Security+Engineer;Building+Secure+AWS+Infrastructure;AWS+%7C+Terraform+%7C+Linux+%7C+Docker;Cloud+Security+%7C+Cybersecurity+%7C+Automation;Learn+%E2%86%92+Build+%E2%86%92+Secure+%E2%86%92+Deploy+%E2%86%92+Improve" alt="Typing SVG" />
-
-<br>
-
-<a href="https://linkedin.com/in/nitesh1vishwakarma">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://portfolio-frontend-woss.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="mailto:niteshvishwakarma8574@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/NiteshVishwakarma219">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<br>
-<img src="https://komarev.com/ghpvc/?username=NiteshVishwakarma219&style=for-the-badge&color=00A8E8" />
-<br>
-<img src="https://img.shields.io/badge/Focus-Cloud_%26_Security-00A8E8?style=for-the-badge&logo=icloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Open_to_Work-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Based_in-India-F97316?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=NiteshVishwakarma219&style=flat-square" alt="Profile views"/>
 </div>
 
-<img src="divider.svg" width="100%"/>
+---
 
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
+## 👨‍💻 About Me
 
-## 👋 Hi, I'm Nitesh Vishwakarma
+I’m a **Cloud & DevOps Engineer** focused on building, securing, automating, and supporting reliable AWS cloud infrastructure.
 
-### Cloud & Security Engineer | AWS | Terraform | Linux | Docker
+My primary focus is **AWS Cloud + Cloud Security + Infrastructure Automation**, with supporting knowledge of DevOps, containers, CI/CD, Linux, networking, and Python automation.
 
-I build and document **production-style cloud infrastructure, cloud security environments, and Linux-based operational systems** using AWS and modern infrastructure tools.
+- ☁️ AWS cloud infrastructure and operations
+- 🔐 IAM, least privilege, network security and encryption
+- 🏗️ Terraform-based infrastructure provisioning
+- 🐳 Containerized workloads with Docker
+- 🐍 Python/Boto3 and AWS CLI automation
+- 📊 CloudWatch monitoring, logging and troubleshooting
+- 🛠️ AWS Systems Manager for secure administration
+- 🌐 VPC, subnetting, routing, NAT, load balancing and DNS
+- 🎓 BCA — Cloud Computing & Security
+- 🏢 135-hour TCS iON industry project on cloud-based big-data processing
 
-My approach goes beyond simply deploying infrastructure. I focus on understanding how systems are **designed, secured, monitored, automated, troubleshot, and operated**.
+## ⚡ Core Engineering Focus
 
-</td>
-<td width="35%" align="center">
-
-<img src="Nitesh-Photo.png" width="220" height="220" style="border-radius:50%;"/>
-
-</td>
-</tr>
-</table>
-
-```yaml
-role: "Cloud & Security Engineer"
-education: "BCA — Cloud & Security"
-primary_focus:
-  - AWS Cloud
-  - Cloud Security
-  - Cybersecurity Fundamentals
-  - Linux Administration
-  - Infrastructure as Code
-  - System Operations
-
-core_stack:
-  cloud: AWS
-  infrastructure_as_code: Terraform
-  operating_system: Linux
-  containers: Docker
-  scripting: Bash + Python
-  version_control: Git + GitHub
-
-supporting_skills:
-  - Networking
-  - IAM
-  - Security Groups
-  - Monitoring
-  - Logging
-  - Troubleshooting
-  - Automation
-  - CI/CD fundamentals
-
-career_targets:
-  - Cloud Engineer
-  - Cloud Support Engineer
-  - Cloud Security Engineer
-  - Cybersecurity Analyst
-  - SOC Analyst
-  - System Engineer
-  - Linux Administrator
-  - IT Support
-  - NOC / IT Operations
-
-philosophy: "Learn → Build → Secure → Deploy → Troubleshoot → Improve"
-```
-
-<img src="divider.svg" width="100%"/>
-
-## 🧠 What I Work On
-
-- ☁️ **Cloud Infrastructure** — designing and deploying AWS environments with networking, compute, databases, IAM and monitoring.
-- 🔐 **Cloud Security** — IAM, network security, access control, security hardening and security-focused AWS architecture.
-- 🛡️ **Cybersecurity Fundamentals** — security monitoring, Linux security, logs, network analysis and incident-oriented troubleshooting.
-- 🐧 **Linux Administration** — system management, users, permissions, SSH, services, networking, logs and troubleshooting.
-- 🏗️ **Infrastructure as Code** — provisioning repeatable AWS infrastructure using Terraform modules and reusable configurations.
-- 🐳 **Containerization** — Docker-based application deployment and container troubleshooting.
-- ⚙️ **Automation** — Bash/Python automation and infrastructure operational workflows.
-- 🔄 **DevOps Fundamentals** — Git, GitHub Actions, CI/CD concepts and deployment automation.
-
-<img src="divider.svg" width="100%"/>
-
-## 🛠️ Technical Skills
-
-<div align="center">
-
-**☁️ Cloud & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=aws,terraform,linux,bash&theme=dark" />
-
-<br><br>
-
-**🐳 Containers & DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,githubactions,jenkins,git,github&theme=dark" />
-
-<br><br>
-
-**🔐 Security & Operations**
-
-<img src="https://skillicons.dev/icons?i=linux,bash,python&theme=dark" />
-
-<br><br>
-
-**💻 Development & Databases**
-
-<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,postgres,mongodb&theme=dark" />
-
-<br><br>
-
-**🧰 Tools**
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
-
-</div>
-
-<br>
-
-| Category | Skills |
+| Area | Focus |
 |---|---|
-| **Cloud** | AWS, EC2, VPC, S3, IAM, RDS, CloudWatch, Route 53, ACM, ALB, SNS, SSM |
-| **Infrastructure** | Terraform, Terraform Modules, Variables, Outputs, Locals, Remote State |
-| **Networking** | VPC, Subnets, Route Tables, Internet Gateway, NAT Gateway, Security Groups, Network ACLs, DNS |
-| **Security** | IAM, Least Privilege, Security Groups, Linux Security, Network Security, Security Monitoring |
-| **Linux** | Linux Administration, SSH, Systemd, Users, Groups, Permissions, Processes, Services, Logs, Package Management |
-| **Containers** | Docker, Docker Compose, Container Networking, Image Management |
-| **DevOps** | Git, GitHub, GitHub Actions, CI/CD Fundamentals, Deployment Automation |
-| **Scripting** | Python, Bash, Shell Automation |
-| **Databases** | PostgreSQL, MySQL, MongoDB |
-| **Web** | HTML, CSS, JavaScript, React, Node.js |
-| **Troubleshooting** | Linux, AWS, Networking, Docker, Application, Infrastructure |
+| ☁️ Cloud | AWS, EC2, VPC, S3, RDS, IAM, ALB, ASG, Route 53, Lambda |
+| 🔐 Security | IAM, least privilege, KMS, Secrets Manager, CloudTrail, segmentation |
+| 🏗️ Infrastructure | Terraform, VPC architecture, public/private subnet design |
+| 🐳 Containers | Docker, containerized application deployment |
+| 🖥️ Systems | Linux, Bash, networking, troubleshooting |
+| 🤖 Automation | Python, Boto3, AWS CLI |
+| 📊 Operations | CloudWatch, SNS, logging, alerting |
+| 🚀 DevOps | Git, GitHub Actions, Jenkins fundamentals, CI/CD fundamentals |
+| ☸️ Orchestration | Kubernetes fundamentals |
 
-<img src="divider.svg" width="100%"/>
+## 🧰 Technology Stack
 
-## 🚀 Featured Projects
+### ☁️ Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=aws,terraform" />
 
-### 01 — Enterprise AWS Cloud Infrastructure with Terraform
+**AWS:** EC2 • VPC • S3 • RDS • IAM • ALB • Auto Scaling • Route 53 • CloudWatch • CloudTrail • SSM • KMS • Lambda • SNS • Secrets Manager • WAF
 
-<a href="https://github.com/NiteshVishwakarma219/enterprise-aws-terraform-infrastructure">
-<img src="https://img.shields.io/badge/View_Project-Enterprise_AWS_Terraform_Infrastructure-00A8E8?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 🐳 DevOps & Containers
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,jenkins" />
 
-Production-style AWS infrastructure provisioned and managed using Terraform.
-
-```
-AWS
- ├── VPC
- │   ├── Public Subnets
- │   └── Private Subnets
- │
- ├── Networking
- │   ├── Internet Gateway
- │   ├── NAT Gateway
- │   ├── Route Tables
- │   └── Security Groups
- │
- ├── Compute
- │   ├── EC2
- │   ├── Launch Template
- │   └── Auto Scaling
- │
- ├── Load Balancing
- │   └── Application Load Balancer
- │
- ├── Database
- │   └── RDS PostgreSQL
- │
- ├── Security
- │   ├── IAM
- │   ├── ACM
- │   └── SSM
- │
- └── Operations
-     ├── CloudWatch
-     ├── SNS
-     └── Route 53
-```
-
-**Key Technologies**
-
-`AWS` `Terraform` `VPC` `EC2` `ALB` `ASG` `RDS PostgreSQL` `IAM` `S3` `CloudWatch` `SNS` `SSM` `Route 53` `ACM` `Linux`
-
-**What this project demonstrates**
-
-- Infrastructure as Code using Terraform
-- Secure AWS networking architecture
-- Public/private subnet design
-- Load-balanced application deployment
-- Auto Scaling architecture
-- Managed PostgreSQL database
-- IAM and access management
-- Cloud monitoring and alerting
-- AWS Systems Manager operations
-- Infrastructure troubleshooting
-- Production-style documentation
+### 🐍 Automation & Systems
+<img src="https://skillicons.dev/icons?i=python,bash,linux" />
 
 ---
 
-### 02 — Enterprise AWS Cloud Security Platform
+# 🏗️ Featured Project
 
-<a href="https://github.com/NiteshVishwakarma219/enterprise-aws-cloud-security-platform">
-<img src="https://img.shields.io/badge/View_Project-Enterprise_AWS_Cloud_Security_Platform-00A8E8?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## Enterprise AWS Cloud & Security Platform
 
-Cloud security-focused AWS platform designed to demonstrate practical security controls, monitoring and defensive architecture.
+A production-style AWS infrastructure project focused on **secure network segmentation, multi-AZ application architecture, containerized deployment, infrastructure as code, monitoring, and cloud security controls**.
 
+<img src="assets/aws-3d-architecture.svg" alt="Enterprise AWS Cloud Security 3D Architecture" width="100%"/>
+
+### Architecture Flow
+
+```text
+Internet
+   │
+   ▼
+Route 53 / Edge Security
+   │
+   ▼
+Internet-facing Application Load Balancer
+   │
+   ├───────────────┐
+   ▼               ▼
+Private App AZ-A   Private App AZ-B
+EC2 + Docker       EC2 + Docker
+   │               │
+   └───────┬───────┘
+           ▼
+     Private RDS PostgreSQL
+
+Security / Operations:
+IAM • KMS • Secrets Manager • SSM
+CloudTrail • CloudWatch • VPC Flow Logs • SNS
 ```
-AWS Cloud Security
-        │
-        ├── Identity & Access
-        │      └── IAM
-        │
-        ├── Network Security
-        │      ├── VPC
-        │      ├── Security Groups
-        │      └── Network Controls
-        │
-        ├── Security Monitoring
-        │      └── Cloud Security Visibility
-        │
-        ├── Infrastructure Protection
-        │      └── Secure AWS Resources
-        │
-        └── Operations
-               ├── Logging
-               ├── Monitoring
-               └── Incident-oriented Troubleshooting
-```
 
-**Focus Areas**
+### What I Built
 
-`AWS Security` `IAM` `Cloud Security` `Network Security` `Linux Security` `Monitoring` `Logging` `Security Hardening` `Incident Response Fundamentals`
+- Multi-AZ VPC with public, private application and private database subnets
+- Internet-facing ALB with private application instances
+- EC2 Auto Scaling architecture
+- Docker-based application deployment
+- Private PostgreSQL RDS
+- Terraform infrastructure provisioning
+- IAM roles and least-privilege access
+- AWS Systems Manager instead of direct SSH administration
+- KMS encryption and Secrets Manager
+- CloudTrail and CloudWatch monitoring/logging
+- VPC Flow Logs and network segmentation
+- Operational monitoring and alerting
+- Troubleshooting across IAM, KMS, EC2, ASG, networking and load balancing
 
-**What this project demonstrates**
+### Repository
 
-- AWS security architecture
-- Identity and access management
-- Cloud security controls
-- Network security concepts
-- Security monitoring
-- Security hardening
-- Operational visibility
-- Troubleshooting security-related issues
-- Practical cloud security documentation
+https://github.com/NiteshVishwakarma219/enterprise-aws-terraform-infrastructure
 
 ---
 
-### 03 — Enterprise Linux Administration & Security
+# 📊 Cloud Monitoring & Automated Remediation
 
-<a href="https://github.com/NiteshVishwakarma219/enterprise-linux-administration-security">
-<img src="https://img.shields.io/badge/View_Project-Enterprise_Linux_Administration_%26_Security-00A8E8?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**AWS CloudWatch • Python • Boto3 • EC2 • SNS**
 
-Linux administration and security environment focused on system operations, hardening, troubleshooting and automation.
+Built an AWS monitoring workflow using CloudWatch metrics and Python/Boto3 automation to identify operational conditions, trigger alerts, and reduce repetitive manual monitoring work.
 
+- EC2 monitoring
+- Automated alerting
+- Python/Boto3 AWS operations
+- SNS notifications
+- Operational troubleshooting
+- Project testing showed approximately **40% reduction in repetitive manual monitoring work**
+
+---
+
+# 🔐 Cloud Security Focus
+
+- IAM least privilege
+- Authentication and authorization
+- Security Groups and network segmentation
+- Public/private subnet isolation
+- KMS encryption
+- Secrets management
+- CloudTrail auditing
+- CloudWatch monitoring
+- VPC Flow Logs
+- Secure administration with SSM
+- Logging and incident-response fundamentals
+- Backup and recovery considerations
+
+# 🧠 Engineering Approach
+
+```text
+DESIGN → BUILD → SECURE → AUTOMATE → MONITOR → TROUBLESHOOT → IMPROVE
 ```
-Linux Operations
-       │
-       ├── System Administration
-       │      ├── Users
-       │      ├── Groups
-       │      ├── Permissions
-       │      └── Processes
-       │
-       ├── Security
-       │      ├── SSH
-       │      ├── Hardening
-       │      ├── Access Control
-       │      └── Security Auditing
-       │
-       ├── Operations
-       │      ├── Systemd
-       │      ├── Services
-       │      ├── Logs
-       │      └── Networking
-       │
-       └── Automation
-              ├── Bash
-              └── Python
-```
 
-**Focus Areas**
+I focus on understanding why an infrastructure design is used, how services communicate, where failures can occur, how access is controlled, and how systems can be monitored and recovered.
 
-`Linux` `Bash` `Python` `SSH` `Systemd` `Permissions` `Users & Groups` `Networking` `Security Hardening` `Logs` `Troubleshooting` `Automation`
+# 📚 Currently Developing
 
-**What this project demonstrates**
+- Advanced AWS infrastructure and cloud security
+- Terraform modules and reusable infrastructure patterns
+- Python/Boto3 cloud automation
+- Kubernetes fundamentals
+- CI/CD and deployment automation
+- Cloud monitoring and troubleshooting
+- DevSecOps fundamentals
+- Reliability and cost-aware AWS architecture
 
-- Linux system administration
-- User and permission management
-- SSH administration
-- Service management
-- Linux security hardening
-- Log analysis
-- System troubleshooting
-- Network troubleshooting
-- Bash automation
-- Python automation
-- Operational documentation
+# 🎯 Career Focus
 
-<img src="divider.svg" width="100%"/>
+**Cloud Engineer • AWS Cloud Engineer • Cloud Operations • Cloud Infrastructure • Cloud Security • Infrastructure Engineer • System Engineer • Junior DevOps**
 
-## 🏆 Portfolio Architecture
+# 🤝 Connect With Me
+
+<a href="https://linkedin.com/in/nitesh1vishwakarma">LinkedIn</a> •
+<a href="https://securewithnitesh.netlify.app">Portfolio</a> •
+<a href="mailto:niteshv8112@gmail.com">Email</a>
 
 <div align="center">
 
-```
-                    ┌─────────────────────────────┐
-                    │   Enterprise HR Platform     │
-                    │            EEMS              │
-                    └──────────────┬──────────────┘
-                                   │
-                 ┌─────────────────┼─────────────────┐
-                 │                 │                 │
-                 ▼                 ▼                 ▼
-        ┌────────────────┐ ┌────────────────┐ ┌────────────────┐
-        │ AWS Terraform  │ │ AWS Cloud      │ │ Linux Admin    │
-        │ Infrastructure │ │ Security       │ │ & Security     │
-        └────────────────┘ └────────────────┘ └────────────────┘
-                 │                 │                 │
-                 ▼                 ▼                 ▼
-              CLOUD           SECURITY           OPERATIONS
-                 │                 │                 │
-                 └─────────────────┼─────────────────┘
-                                   ▼
-                         CLOUD & SECURITY
-                              ENGINEERING
-```
-
-</div>
-
-### 🎯 Three Projects — One Career Direction
-
-| Project | Primary Area | Supporting Areas |
-|---|---|---|
-| Enterprise AWS Cloud Infrastructure with Terraform | ☁️ Cloud Engineering | Terraform, Networking, Linux, DevOps |
-| Enterprise AWS Cloud Security Platform | 🔐 Cloud Security | AWS, IAM, Networking, Monitoring |
-| Enterprise Linux Administration & Security | 🐧 Linux & Security | Bash, Python, System Administration |
-
-<img src="divider.svg" width="100%"/>
-
-## 📊 What I'm Building
-
-<div align="center">
-
-## 🎯 Current Focus
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Cloud-00A8E8?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Secure-2EA44F?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automate-F97316?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Monitor-6E40C9?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Troubleshoot-D14836?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Improve-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-
-</div>
-
-<br>
-
-```
-Cloud
-  ↓
-Secure
-  ↓
-Automate
-  ↓
-Monitor
-  ↓
-Troubleshoot
-  ↓
-Improve
-```
-
-<img src="divider.svg" width="100%"/>
-
-## 💼 Open to Opportunities
-
-I'm actively looking for entry-level opportunities in:
-
-- Cloud Engineer
-- Cloud Support Engineer
-- Cloud Security
-- Cybersecurity / SOC Analyst
-- System Engineer
-- Linux Administrator
-- IT Support
-- NOC / IT Operations
-- Infrastructure Support
-- Associate Cloud / Security Roles
-
-My strongest career direction is:
-
-**Cloud + Security + Linux + Infrastructure**
-
-with DevOps and automation skills supporting the core profile.
-
-<img src="divider.svg" width="100%"/>
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/nitesh1vishwakarma">
-<img src="https://img.shields.io/badge/LinkedIn-nitesh1vishwakarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://portfolio-frontend-woss.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Site-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="mailto:niteshvishwakarma8574@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/NiteshVishwakarma219">
-<img src="https://img.shields.io/badge/GitHub-NiteshVishwakarma219-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-⚡ **Learn → Build → Secure → Deploy → Troubleshoot → Improve**
-
-<br>
-
-<img src="footer.svg" width="100%"/>
+### ☁️ Build • 🔐 Secure • ⚙️ Automate • 📊 Monitor • 🛠️ Troubleshoot
 
 </div>
