@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430">
+<defs>
+<linearGradient id="bg" x1="0" x2="1"><stop stop-color="#050816"/><stop offset=".5" stop-color="#0b1730"/><stop offset="1" stop-color="#07111f"/></linearGradient>
+<linearGradient id="c"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+<style>
+.f{animation:f 5s ease-in-out infinite}.f2{animation:f 7s ease-in-out infinite reverse}.d{stroke-dasharray:10 12;animation:d 2s linear infinite}
+@keyframes f{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}@keyframes d{to{stroke-dashoffset:-44}}
+</style></defs>
+<rect width="1200" height="430" rx="28" fill="url(#bg)"/>
+<circle cx="1030" cy="70" r="160" fill="#2563eb" opacity=".08"/>
+<circle cx="150" cy="350" r="170" fill="#8b5cf6" opacity=".07"/>
+<g class="f2"><polygon points="820,120 945,75 1050,130 925,175" fill="#102a49" stroke="#38bdf8" stroke-width="2"/><polygon points="925,175 1050,130 1050,245 925,290" fill="#0a1d35" stroke="#60a5fa" stroke-width="2"/><polygon points="820,120 925,175 925,290 820,235" fill="#0b2440" stroke="#22d3ee" stroke-width="2"/><circle cx="937" cy="190" r="28" fill="#22d3ee" opacity=".8"/><path d="M923 190h28v25h-28z" fill="#07111f"/></g>
+<g class="f"><polygon points="700,290 800,255 890,300 790,338" fill="#211c48" stroke="#a78bfa" stroke-width="2"/><polygon points="790,338 890,300 890,390 790,428" fill="#15112f" stroke="#c084fc" stroke-width="2"/><polygon points="700,290 790,338 790,428 700,380" fill="#1a1438" stroke="#8b5cf6" stroke-width="2"/></g>
+<path d="M500 160C650 115 690 125 820 150M500 215C620 270 650 290 700 310" fill="none" stroke="#22d3ee" stroke-width="2" class="d"/>
+<text x="90" y="205" fill="#94a3b8" font-family="Arial" font-size="18" letter-spacing="5">NITESH VISHWAKARMA</text>
+<text x="90" y="270" fill="white" font-family="Arial" font-size="54" font-weight="800">Cloud &amp; DevOps Engineer</text>
+<text x="92" y="310" fill="#67e8f9" font-family="Arial" font-size="22">AWS Cloud • Security • Infrastructure • Automation</text>
+<text x="92" y="350" fill="#94a3b8" font-family="Arial" font-size="17">Build → Secure → Automate → Monitor → Troubleshoot</text>
+</svg>
